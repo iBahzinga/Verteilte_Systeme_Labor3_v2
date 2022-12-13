@@ -9,5 +9,9 @@
  - Im zweiten Terminal den sniffer starten mit "./STDMAsniffer <mcast address> <listen port>"
  - Im dritten Terminal die Station A starten mit "./startStations.sh <interface name> <multicast address> <eingangsport> <von> <zu> <Stadion> <offset>
  - Im vierten Terminal die Station B starten mit "./startStations.sh <interface name> <multicast address> <eingangsport> <von> <zu> <Stadion> <offset>
-  
+ - Die Teamnummer kann geändert werden, indem man in dem shellscript "startStations.sh" die Teamnummer ändert.
+ 
   Wenn man ein Beispiel für die eingaben der start stationen haben möchte kann man auch nur "./startStations.sh" eingeben. Dann steht im Terminal eine beispielzeile wie das aussehen kann.
+  
+  
+ 
